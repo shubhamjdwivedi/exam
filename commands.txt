@@ -1,0 +1,10 @@
+git config --global user.name "Shubham"
+git config --global user.email "shubhamjdwivedi@gmail.com"
+
+mkdir exam
+
+git init
+
+git add .
+git commit -m "first commit"
+git push -u origin main
